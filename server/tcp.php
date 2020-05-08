@@ -9,7 +9,8 @@
 $server = new Swoole\Server("127.0.0.1", 9501);
 
 $server->set([
-    "worker_num"=>2
+    "worker_num"=>2,
+
 ]);
 $server->on('connect', function ($server, $fd){
     echo "connection open: {$fd}\n";
@@ -17,7 +18,7 @@ $server->on('connect', function ($server, $fd){
 $server->on('receive', function ($server, $fd, $reactor_id, $data) {
     $server->send($fd, "Swoole: {$data}");
     echo $fd.'---'.$data;
-//    $server->close($fd);
+    echo "reactor_id:{$reactor_id}\ndata:{$data}\nfd:{$fd}";
 });
 $server->on('close', function ($server, $fd) {
     echo "connection close: {$fd}\n";

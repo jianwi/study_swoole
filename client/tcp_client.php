@@ -11,4 +11,10 @@ $client = new swoole_client(SWOOLE_SOCK_TCP);
 fwrite(STDOUT,'请输入消息:');
 $msg = trim(fgets(STDIN));
 
-$client->send($msg)
+$resp = $client->send($msg);
+
+echo "resp返回值".$resp;
+
+$result = $client->recv();
+
+echo $result;
