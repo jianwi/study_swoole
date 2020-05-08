@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="82f547dd-49a2-43b9-990f-5bf0c85508fa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/swoole-ide-helper" />
+  </component>
+  <component name="ProjectId" id="1baRhK1dLU2jmqZnu8GZS9hxXAA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="PhpLocalRunConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="82f547dd-49a2-43b9-990f-5bf0c85508fa" name="Default Changelist" comment="" />
+      <created>1588868335546</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588868335546</updated>
+      <workItem from="1588868337013" duration="362000" />
+      <workItem from="1588903663993" duration="4342000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="415" y="60" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588868666580">
+      <screen x="0" y="0" width="1920" height="1026" />
+    </state>
+    <state x="415" y="60" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1026@0.0.1920.1026" timestamp="1588868666580" />
+    <state x="649" y="390" key="NewPhpFileDialog" timestamp="1588907867335">
+      <screen x="0" y="0" width="1920" height="1026" />
+    </state>
+    <state x="649" y="390" key="NewPhpFileDialog/0.0.1920.1026@0.0.1920.1026" timestamp="1588907867335" />
+    <state x="258" y="0" key="SettingsEditor" timestamp="1588919289885">
+      <screen x="0" y="0" width="1920" height="1026" />
+    </state>
+    <state x="258" y="0" key="SettingsEditor/0.0.1920.1026@0.0.1920.1026" timestamp="1588919289885" />
+  </component>
+</project>
